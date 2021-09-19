@@ -13,3 +13,8 @@ A simple drawing app that uses Tkinter for the GUI, and OpenCV for exporting dra
 **C** - Clear Canvas\
 **R** - Brush Colour\
 **B** - Background Colour
+
+### Saving Drawing
+
+**File > Save** - Save Image to *yourimage.png*\
+**File > Save** - Save Image with Transparent Background to *yourimage.png*
